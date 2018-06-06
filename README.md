@@ -1,8 +1,8 @@
-## **Data Barang  Toko Maju Jaya**
+## **Data Barang Toko Maju Jaya**
 
 ### Tim Project : 
 ####               Endri Susanto    (G.211.16.0014)
-####               Alfian Prigi U   (G.211.16.0042)
+####               Alfian Prigi U   (G.211.16.0042) link repository : https://github.com/alfianprigi/uasoss.git
 ####               Diolanda Funky A (G.211.16.0043)
 ####               Anang Maulana    (G.211.16.0034)
 ####               M. Alwi Adi Z    (G.211.16.0099)

@@ -35,13 +35,15 @@
     <h1 align="center">LOGIN</h1>
     <table width="425" border="0" cellpadding="2">
       <tr>
-        <td width="239" height="44"><center><input name="username" type="text" style="border-radius:6px; width:200px; height:25px;" placeholder="username" class="text-field"></center></td>
+        <td width="239" height="44"><center><input name="username" type="text" style="border-radius:6px; width:200px; height:25px;" placeholder="masukan username" 
+class="text-field"></center></td>
       </tr>
       <tr>
         <td colspan="2">&nbsp;</td>
       </tr>
       <tr>
-        <td height="44"><center><input name="password" type="password" style="border-radius:6px; width:200px; height:25px;" placeholder="password" class="text-field"></center></td>
+        <td height="44"><center><input name="password" type="password" style="border-radius:6px; width:200px; height:25px;" placeholder="masukan password" 
+class="text-field"></center></td>
       </tr>
       <tr>
         <td height="23" colspan="2"><div align="left"></div></td>
